@@ -1,0 +1,5 @@
+{
+  "name": "Snap2Sheet - Image to Excel Converter",
+  "description": "A professional tool to convert printed or digital tables from images into interactive Excel worksheets using AI-powered OCR and data structuring.",
+  "requestFramePermissions": []
+}
