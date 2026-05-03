@@ -1,9 +1,5 @@
 # 📸 Snap2Sheet — Image to Excel Converter
 
-> Upload a photo of any table. Get a fully editable Excel spreadsheet in seconds — powered by Google Gemini AI.
-
-![Snap2Sheet Banner](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
-
 ---
 
 ## 📌 About
